@@ -1,0 +1,277 @@
+.logo {
+    width: 33px;
+height: 42px;
+margin-left: 99px;
+margin-top: 24px;
+}
+
+.h1-1 {
+    color: #636060;
+font-family: Helvetica;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+display: inline-block;
+margin-right: 50px;
+
+}
+
+.h1 {
+    color: #636060;
+font-family: Helvetica;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+display: inline-block;
+margin-left:770px;
+margin-right: 50px; 
+}
+
+.s-1 {
+    margin-top: 30px;
+    background-image: url(../images/Rectangle\ 1.png);
+    background-repeat: none;
+    background-size: cover;
+    height: 600px;
+}
+
+.greece {
+    color: #FFF;
+font-family: Helvetica;
+font-size: 79px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-left: 470px;
+padding-top:250px;
+}
+
+
+
+
+.travel {
+    color: #FFF;
+font-family: Helvetica;
+font-size: 19px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-left: 590px;
+}
+
+.container {
+    width: 1336px;
+    height: 700px;
+    margin:100px auto;
+}
+.starting {
+    width: 235px;
+    height: 700px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.starting h1 {
+    color: #010101;
+font-family: Helvetica;
+font-size: 28px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 30px;
+}
+.starting h2 {
+    color: #636060;
+font-family: Helvetica;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 10px;
+}
+
+.starting h3 {
+    color: #636060;
+font-family: Helvetica;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+.first {
+    width: 286px;
+height: 195px;
+}
+
+.ar1 {
+    width: 286px;
+    height: 700px;
+    display: inline-block;
+    margin-left: 44px;
+}
+
+.secondimg {
+    width: 286px;
+height: 195px;
+}
+
+.ar1 h1 {
+    color: #343232;
+font-family: Helvetica;
+font-size: 19px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 23px;
+margin-bottom: 10px;
+}
+
+.ar1 h2 {
+    color: #636060;
+font-family: Helvetica;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+.thirdimg {
+    width: 286px;
+    height: 195px;
+    margin-top: 55px;
+}
+
+.ar1 h3 {
+    color: #343232;
+font-family: Helvetica;
+font-size: 19px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 23px;
+margin-bottom: 10px;
+}
+
+.ar1 h4 {
+    color: #636060;
+font-family: Helvetica;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+.ar2 {
+    width: 285px;
+    height: 700px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 44px;
+}
+
+.ar2 h1 {
+    color: #343232;
+font-family: Helvetica;
+font-size: 19px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 23px;
+margin-bottom: 10px;
+}
+
+.ar2 {
+    color: #636060;
+font-family: Helvetica;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.fifthimg {
+    width: 286px;
+    height: 195px;
+    margin-top: 55px;
+}
+
+.ar2 h3 {
+    color: #636060;
+font-family: Helvetica;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 23px;
+margin-bottom: 10px;
+}
+
+.ar2 h4 {
+    color: #636060;
+font-family: Helvetica;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+
+.ar3 {
+    width: 285px;
+    height: 700px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 55px;
+}
+
+.meotxe {
+    width: 285px;
+    height: 195px;
+}
+
+.ar3 h1 {
+    color: #343232;
+font-family: Helvetica;
+font-size: 19px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 23px;
+margin-bottom: 10px;
+}
+
+.ar3 h2 {
+    color: #636060;
+font-family: Helvetica;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 56px;
+}
+
+.ar3 h3 {
+    color: #343232;
+font-family: Helvetica;
+font-size: 19px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 23px;
+margin-bottom: 10px;
+}
+
+.ar3 h4 {
+    color: #636060;
+font-family: Helvetica;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
